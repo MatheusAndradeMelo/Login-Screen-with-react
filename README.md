@@ -1,6 +1,8 @@
 # Login Screen with React
 
-## I decided to use typescript and eslint for this code, like always ;)
+I decided to use typescript and eslint for this code, like always ;)
 
-### `yarn start`
+### `To run: yarn start`
+
+# Link deploy: https://login-screen-with-react-768vayetc-matheusandrademelo.vercel.app
 
